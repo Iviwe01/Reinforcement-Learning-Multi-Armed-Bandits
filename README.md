@@ -188,7 +188,7 @@ This project is available for educational purposes.
 
 ## Author
 
-Iviwe Ndamase  
+Iviwe Mtambeka 
 Howest University  
 Reinforcement Learning Course - 2025
 
